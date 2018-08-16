@@ -4,8 +4,10 @@
 # This is a ocserv installation for CentOS 7       #
 # Version: 0.1.2 2017-02-03
 # Author: Travis Lee                               #
-# Website: https://www.stunnel.info                #
-#                                                  #
+# Website: https://www.stunnel.info     
+#
+#
+#add ca name and delete route 
 ####################################################
 
 # 检测是否是root用户
